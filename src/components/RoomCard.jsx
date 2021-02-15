@@ -1,6 +1,5 @@
 import React from 'react'
 import { Card, ListGroup, ListGroupItem, Form } from 'react-bootstrap'
-import CheckBox from './CheckBox'
 
 export default class RoomCard extends React.Component {
 

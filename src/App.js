@@ -1,16 +1,10 @@
 
 import './App.css';
-import HotelTable from './components/HotelTable';
 import NavigationBar from './components/NavigationBar';
 
 import React from "react";
 import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
-  useRouteMatch,
-  useParams
+  BrowserRouter as Router
 } from "react-router-dom";
 
 export default function App() {
